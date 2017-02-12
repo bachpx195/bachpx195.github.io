@@ -1,6 +1,4 @@
-# Admin-theme
-cool theme
-
+# Config Admin-theme on ubuntu 16.04
 
 ## LAMP
 `$sudo apt-get install tasksel`
@@ -70,7 +68,7 @@ After you saved your changes, just restart the apache2 webserver and you'll be d
 ## this is to enable it 
 `$sudo a2ensite 000-default`
 
-
+## [ tutorial](https://github.com/emilas44/laravel-5.2-on-Ubuntu/edit/master/Install%20Laravel%205.2%20on%20Ubuntu%2016.04.txt)
 ## [ youtube](https://www.youtube.com/watch?v=A6TdaRIsG6g)
 ## [Apache command line](https://www.cyberciti.biz/faq/ubuntu-linux-start-restart-stop-apache-web-server/)
 // check lôi apache  `$journalctl | tail`
